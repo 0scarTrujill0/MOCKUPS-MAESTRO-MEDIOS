@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T18:59:33.150Z" agent="5.0 (Windows)" etag="SLILJKCyop_IMWSMXxJD" version="17.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-14T19:01:29.802Z" agent="5.0 (Windows)" etag="RSChjWCNzcwvnuvIGA8m" version="17.1.1" type="github" pages="5">
   <diagram id="FBWUFY-0nCmWMVfxBsNA" name="CRUD Medios">
     <mxGraphModel dx="872" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2008,12 +2008,12 @@
             <mxPoint x="204" y="80" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HzXsrgxI2RV8XQkbdxGR-10" value="Merge" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=none;fontSize=12;align=center;fontStyle=0;strokeWidth=2;fontColor=#ffffff;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=1;labelBackgroundColor=none;opacity=70;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
+        <mxCell id="HzXsrgxI2RV8XQkbdxGR-10" value="Aceptar" style="dashed=0;html=1;rounded=1;fillColor=#0057D8;strokeColor=none;fontSize=12;align=center;fontStyle=0;strokeWidth=2;fontColor=#ffffff;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;shadow=1;labelBackgroundColor=none;opacity=70;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
           <mxGeometry x="1" y="1" width="60" height="33" relative="1" as="geometry">
             <mxPoint x="-140" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HzXsrgxI2RV8XQkbdxGR-11" value="Cancel" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=12;align=center;fontStyle=0;strokeWidth=2;fontColor=#596780;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=1;labelBackgroundColor=none;opacity=70;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
+        <mxCell id="HzXsrgxI2RV8XQkbdxGR-11" value="Cancelar" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=12;align=center;fontStyle=0;strokeWidth=2;fontColor=#596780;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;shadow=1;labelBackgroundColor=none;opacity=70;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
           <mxGeometry x="1" y="1" width="50" height="33" relative="1" as="geometry">
             <mxPoint x="-70" y="-60" as="offset" />
           </mxGeometry>
@@ -2083,6 +2083,18 @@
         </mxCell>
         <mxCell id="HzXsrgxI2RV8XQkbdxGR-33" value="Seleccione" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=14;spacingLeft=3;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
           <mxGeometry x="203" y="340" width="186" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HzXsrgxI2RV8XQkbdxGR-34" value="Usuario Activo:" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=11;align=left;fontStyle=1;strokeWidth=2;fontColor=#596780;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;shadow=1;labelBackgroundColor=none;opacity=70;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
+          <mxGeometry x="21" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HzXsrgxI2RV8XQkbdxGR-35" value="Tipo de Usuario:" style="dashed=0;html=1;rounded=1;fillColor=none;strokeColor=none;fontSize=11;align=left;fontStyle=1;strokeWidth=2;fontColor=#596780;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;shadow=1;labelBackgroundColor=none;opacity=70;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
+          <mxGeometry x="204" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HzXsrgxI2RV8XQkbdxGR-36" value="Seleccione" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=14;spacingLeft=3;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
+          <mxGeometry x="21" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HzXsrgxI2RV8XQkbdxGR-37" value="Seleccione" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=14;spacingLeft=3;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;" vertex="1" parent="HzXsrgxI2RV8XQkbdxGR-0">
+          <mxGeometry x="204" y="390" width="186" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
